@@ -1,0 +1,329 @@
+M. Friedman 277
+Rate of
+Inflation
+Figure 4. Inflation and unemployment in seven countries, annually, 1956 to 1975
+tionately the amount of evidence. In particular, the oil crisis hit all seven
+countries at the same time. Whatever effect the crisis had on the rate of in-
+flation, it directly disrupted the productive process and tended to increase
+unemployment. Any such increases can hardly be attributed to the accelera-
+tion of inflation that accompanied them; at most the two could be regarded
+as at least partly the common result of a third influence [Gordon (7)].
+Both the quinquennial and annual data show that the oil crisis cannot
+wholly explain the phenomenon described so graphically by Mr. Callaghan
+Already before the quadrupling of oil prices in 1973, most countries show a
+clearly marked association of rising inflation and rising unemployment. But
+this too may reflect independent forces rather than the influence of inflation
+on unemployment. For example, the same forces that have been raising the
+natural rate of unemployment in the U.S. may have been operating in other
+countries and may account for their rising trend of unemployment, independ-
+ently of the consequences of inflation.
+Despite these qualifications, the data strongly suggest that, at least in some
+countries, of which Britain, Canada, and Italy may be the best examples,
+rising inflation and rising unemployment have been mutually reinforcing,
+278 Economic Sciences 1976
+rather than the separate effects of separate causes. The data are not inconsistent
+with the stronger statement that, in all industrialized countries, higher rates
+of inflation have some effects that, at least for a time, make for higher unem-
+ployment. The rest of this paper is devoted to a preliminary exploration of
+what some of these effects may be.
+b. A tentative hypothesis
+I conjecture that a modest elaboration of the natural-rate hypothesis is all
+that is required to account for a positive relation between inflation and
+unemployment, though of course such a positive relation may also occur for
+other reasons. Just as the natural-rate hypothesis explains a negatively sloped
+Phillips curve over short periods as a temporary phenomenon that will dis-
+appear as economic agents adjust their expectations to reality, so a positively
+sloped Phillips curve over somewhat longer periods may occur as a transitional
+phenomenon that will disappear as economic agents adjust not only their
+expectations but their institutional and political arrangements to a new
+reality. When this is achieved, I believe that - as the natural - rate hypothesis
+suggests - the rate of unemployment will be largely independent of the average
+rate of inflation, though the efficiency of utilization of resources may not be.
+High inflation need not mean either abnormally high or abnormally low
+unemployment. However, the institutional and political arrangements that
+accompany it, either as relics of earlier history or as products of the inflation
+itself, are likely to prove antithetical to the most productive use of employed
+resources - a special case of the distinction between the state of employment
+and the productivity of an economy referred to earlier.
+Experience in many Latin American countries that have adjusted to
+chronically high inflation rates - experience that has been analyzed most
+perceptively by some of my colleagues, particularly Arnold Harberger and
+Larry Sjaastad [(12), (25)] - is consistent, I believe, with this view.
+In the version of the natural-rate hypothesis summarized in Figure 2, the
+vertical curve is for alternative rates of fully anticipated inflation. Whatever
+that rate - be it negative, zero or positive - it can be built into every decision
+if it is fully anticipated. At an anticipated 20 percent per year inflation, for
+example, long-term wage contracts would provide for a wage in each year that
+would rise relative to the zero-inflation wage by just 20 percent per year;
+long-term loans would bear an interest rate 20 percentage points higher than
+the zero-inflation rate, or a principal that would be raised by 20 percent a year;
+and so on - in short, the equivalent of a full indexing of all contracts. The
+high rate of inflation would have some real effects, by altering desired cash
+balances, for example, but it need not alter the efficiency of labor markets, or
+the length or terms of labor contracts, and hence, it need not change the natural
+rate of unemployment.
+This analysis implicitly supposes, first, that inflation is steady or at least
+no more variable at a high rate than at a low - otherwise, it is unlikely that
+inflation would be as fully anticipated at high as at low rates of inflation;
+second, that the inflation is, or can be, open, with all prices free to adjust to
+M. Friedman 279
+the higher rate, so that relative price adjustments are the same with a 20
+percent inflation as with a zero inflation; third, really a variant of the second
+point, that there are no obstacles to indexing of contracts.
+Ultimately, if inflation at an average rate of 20 percent per year were to
+prevail for many decades, these requirements could come fairly close to being
+met, which is why I am inclined to retain the long-long-run vertical Phillips
+curve. But when a country initially moves to higher rates of inflation, these
+requirements will be systematically departed from. And such a transitional
+period may well extend over decades.
+Consider, in particular, the U.S. and the U.K. For two centuries before
+World War II for the U.K., and a century and a half for the U.S., prices
+varied about a roughly constant level, showing substantial increases in time of
+war, then postwar declines to roughly prewar levels. The concept of a “normal”
+price level was deeply imbedded in the financial and other institutions of the
+two countries and in the habits and attitudes of their citizens.
+In the immediate post-World War II period, prior experience was widely
+expected to recur. The fact was postwar inflation superimposed on wartime
+inflation; yet the expectation in both the U.S. and the U.K. was deflation.
+It took a long time for the fear of postwar deflation to dissipate - if it still
+has-and still longer before expectations started to adjust to the fundamental
+change in the monetary system. That adjustment is still far from complete
+[Klein (16)].
+Indeed, we do not know what a complete adjustment will consist of. We
+cannot know now whether the industrialized countries will return to the pre-
+World War II pattern of a long-term stable price level, or will move toward
+the Latin American pattern of chronically high inflation rates - with every
+now and then an acute outbreak of super- or hyperinflation, as occurred
+recently in Chile and Argentina [Harberger (11)] -or will undergo more
+radical economic and political change leading to a still different resolution of
+the present ambiguous situation.
+This uncertainty - or more precisely, the circumstances producing this
+uncertainty - leads to systematic departures from the conditions required for
+a vertical Phillips curve.
+The most fundamental departure is that a high inflation rate is not likely to
+be steady during the transition decades. Rather, the higher the rate, the more
+variable it is likely to be. That has been empirically true of differences among
+countries in the past several decades [Jaffe and Kleiman (14); Logue and Wil-
+lett (17)]. It is also highly plausible on theoretical grounds - both about
+actual inflation and, even more clearly, the anticipations of economic agents
+with respect to inflation. Governments have not produced high inflation as a
+deliberate announced policy but as a consequence of other policies - in
+particular, policies of full employment and welfare state policies raising
+government spending. They all proclaim their adherence to the goal of stable
+prices. They do so in response to their constituents, who may welcome many
+of the side effects of inflation, but are still wedded to the concept of stable money.
+A burst of inflation produces strong pressure to counter it. Policy goes from one
+280 Economic Sciences 1976
+direction to the other, encouraging wide variation in the actual and anti-
+cipated rate of inflation. And, of course, in such an environment, no one has
+single-valued anticipations. Everyone recognizes that there is great uncertainty
+about what actual inflation will turn out to be over any specific future interval
+[Jaffe and Kleiman (14); Meiselman (20)].
+The tendency for inflation that is high on the average to be highly variable
+is reinforced by the effect of inflation on the political cohesiveness of a country
+in which institutional arrangements and financial contracts have been adjusted
+to a long-term “normal” price level. Some groups gain (e.g., home owners);
+others lose (e.g., owners of savings accounts and fixed interest securities),
+“Prudent” behavior becomes in fact reckless, and “reckless” behavior in fact
+prudent. The society is polarized; one group is set against another. Political
+unrest increases. The capacity of any government to govern is reduced at the
+same time that the pressure for strong action grows.
+An increased variability of actual or anticipated inflation may raise the
+natural rate of unemployment in two rather different ways.
+First, increased volatility shortens the optimum length of unindexed com-
+mitments and renders indexing more advantageous [Gray (10)]. But it takes
+time for actual practice to adjust. In the meantime, prior arrangements intro-
+duce rigidities that reduce the effectiveness of markets. An additional element
+of uncertainty is, as it were, added to every market arrangement. In addition,
+indexing is, even at best, an imperfect substitute for stability of the inflation
+rate. Price indexes are imperfect; they are available only with a lag, and
+generally are applied to contract terms only with a further lag.
+These developments clearly lower economic efficiency. It is less clear what
+their effect is on recorded unemployment. High average inventories of all
+kinds is one way to meet increased rigidity and uncertainty. But that may
+mean labor-hoarding by enterprises and low unemployment or a larger force
+of workers between jobs and so high unemployment. Shorter commitments may
+mean more rapid adjustment of employment to changed conditions and so low
+unemployment, or the delay in adjusting the length of commitments may lead
+to less satisfactory adjustment and so high unemployment. Clearly, much
+additional research is necessary in this area to clarify the relative importance
+of the various effects. About all one can say now is that the slow adjustment of
+commitments and the imperfections of indexing may contribute to the recorded
+increase in unemployment.
+A second related effect of increased volatility of inflation is to render market
+prices a less efficient system for coordinating economic activity. A fundamental
+function of a price system, as Hayek (13) emphasized so brilliantly, is to trans-
+mit compactly, efficiently, and at low cost the information that economic
+agents need in order to decide what to produce and how to produce it, or how
+to employ owned resources. The relevant information is about relative prices -
+of one product relative to another, of the services of one factor of production
+relative to another, of products relative to factor services, of prices now
+relative to prices in the future. But the information in practice is transmitted
+in the form of absolute prices - prices in dollars or pounds or kronor. If the
+M. Friedman 281
+price level is on the average stable or changing at a steady rate, it is relatively
+easy to extract the signal about relative prices from the observed absolute
+prices. The more volatile the rate of general inflation, the harder it becomes to
+extract the signal about relative prices from the absolute prices: the broadcast
+about relative prices is as it were being jammed by the noise coming from the
+inflation broadcast [Lucas (18), (19); Harberger (11)]. At the extreme, the
+system of absolute prices becomes nearly useless, and economic agents resort
+either to an alternative currency, or to barter, with disastrous effects on
+productivity.
+Again, the effect on economic efficiency is clear, on unemployment less so.
+But, again, it seems plausible that the average level of unemployment would
+be raised by the increased amount of noise in market signals, at least during the
+period when institutional arrangements are not yet adapted to the new situation.
+These effects of increased volatility of inflation would occur even if prices
+were legally free to adjust - if, in that sense, the inflation were open. In practice,
+the distorting effects of uncertainty, rigidity of voluntary long-term contracts,
+and the contamination of price signals will almost certainly be reinforced by
+legal restrictions on price change. In the modern world, governments are
+themselves producers of services sold on the market: from postal services to a
+wide range of other items. Other prices are regulated by government, and
+require government approval for change: from air fares to taxicab fares to
+charges for electricity. In these cases, governments cannot avoid being involved
+in the price-fixing process, In addition, the social and political forces unleashed
+by volatile inflation rates will lead governments to try to repress inflation in
+still other areas: by explicit price and wage control, or by pressuring private
+businesses or unions “voluntarily” to exercise “restraint”, or by speculating
+in foreign exchange in order to alter the exchange rate.
+The details will vary from time to time and from country to country, but
+the general result is the same: reduction in the capacity of the price system
+to guide economic activity; distortions in relative prices because of the intro-
+duction of greater friction, as it were, in all markets; and, very likely, a higher
+recorded rate of unemployment [(5)].
+The forces I have just described may render the political and economic
+system dynamically unstable and produce hyperinflation and radical political
+change - as in many defeated countries after World War I, or in Chile and
+Argentina more recently. At the other extreme, before any such catastrophe
+occurs, policies may be adopted that will achieve a relatively low and stable
+rate of inflation and lead to the dismantling of many of the interferences with
+the price system. That would re-establish the preconditions for the straight-
+forward natural-rate hypothesis and enable that hypothesis to be used to pre-
+dict the course of the transition.
+An intermediate possibility is that the system will reach stability at a fairly
+constant though high average rate of inflation. In that case, unemployment
+should also settle down to a fairly constant level decidedly lower than during
+the transition. As the preceding discussion emphasizes, increasing volatility
+and increasing government intervention with the price system are the major
+282 Economic Sciences 1976
+factors that seem likely to raise unemployment, not high volatility or a high
+level of intervention.
+Ways of coping with both volatility and intervention will develop: through
+indexing and similar arrangements for coping with volatility of inflation;
+through the development of indirect ways of altering prices and wages for
+avoiding government controls.
+Under these circumstances, the long-run Phillips curve would again be
+vertical, and we would be back at the natural-rate hypothesis, though perhaps
+for a different range of inflation rates than that for which it was first suggested.
+Because the phenomenon to be explained is the coexistence of high inflation
+and high unemployment, I have stressed the effect of institutional changes pro-
+duced by a transition from a monetary system in which there was a “normal”
+price level to a monetary system consistent with long periods of high, and
+possibly highly variable, inflation. It should be noted that once these institu-
+tional changes were made, and economic agents had adjusted their practices
+and anticipations to them, a reversal to the earlier monetary framework or even
+the adoption in the new monetary framework of a successful policy of low
+inflation would in its turn require new adjustments, and these might have
+many of the same adverse transitional effects on the level of employment.
+There would appear to be an intermediate-run negatively sloped Phillips
+curve instead of the positively sloped one I have tried to rationalize.
+5. CONCLUSION
+One consequence of the Keynesian revolution of the 1930’s was the acceptance
+of a rigid absolute wage level, and a nearly rigid absolute price level, as a
+starting point for analyzing short-term economic change. It came to be taken
+for granted that these were essentially institutional data and were so regarded
+by economic agents, so that changes in aggregate nominal demand would be
+reflected almost entirely in output and hardly at all in prices. The age-old
+confusion between absolute prices and relative prices gained a new lease on
+life.
+In this intellectual atmosphere it was understandable that economists
+would analyze the relation between unemployment and nominal rather than
+real wages and would implicitly regard changes in anticipated nominal wages as
+equal to changes in anticipated real wages. Moreover, the empirical evidence
+that initially suggested a stable relation between the level of unemployment
+and the rate of change of nominal wages was drawn from a period when,
+despite sharp short-period fluctuations in prices, there was a relatively stable
+long-run price level and when the expectation of continued stability was
+widely shared. Hence these data flashed no warning signals about the special
+character of the assumptions.
+The hypothesis that there is a stable relation between the level of unem-
+ployment and the rate of inflation was adopted by the economics profession
+with alacrity. It filled a gap in Keynes’ theoretical structure. It seemed to be
+the “one equation” that Keynes himself had said “we are . . . short” (15). In
+M. Friedman 283
+addition, it seemed to provide a reliable tool for economic policy, enabling the
+economist to inform the policy maker about the alternatives available to him.
+As in any science, so long as experience seemed to be consistent with the
+reigning hypothesis, it continued to be accepted, although as always, a few
+dissenters questioned its validity.
+But as the ‘50’s turned into the ‘60’s, and the ‘60’s into the ‘70’s, it became
+increasingly difficult to accept the hypothesis in its simple form. It seemed to
+take larger and larger doses of inflation to keep down the level of unemploy-
+ment. Stagflation reared its ugly head.
+Many attempts were made to patch up the hypothesis by allowing for special
+factors such as the strength of trade unions. But experience stubbornly refused
+to conform to the patched up version.
+A more radical revision was required. It took the form of stressing the
+importance of surprises - of differences between actual and anticipated magni-
+tudes. It restored the primacy of the distinction between “real” and “nominal”
+magnitudes. There is a “natural rate of unemployment” at any time deter-
+mined by real factors. This natural rate will tend to be attained when expecta-
+tions are on the average realized. The same real situation is consistent with any
+absolute level of prices or of price change, provided allowance is made for the
+effect of price change on the real cost of holding money balances. In this re-
+spect, money is neutral. On the other hand, unanticipated changes in aggregate
+nominal demand and in inflation will cause systematic errors of perception on
+the part of employers and employees alike that will initially lead unemploy-
+ment to deviate in the opposite direction from its natural rate. In this respect,
+money is not neutral. However, such deviations are transitory, though it may
+take a long chronological time before they are reversed and finally eliminated
+as anticipations adjust.
+The natural-rate hypothesis contains the original Phillips curve hypothesis
+as a special case and rationalizes a far broader range of experience, in particular
+the phenomenon of stagflation. It has by now been widely though not univer-
+sally accepted.
+However, the natural-rate hypothesis in its present form has not proved
+rich enough to explain a more recent development - a move from stagflation
+to slumpflation. In recent years, higher inflation has often been accompanied
+by higher unemployment - not lower unemployment, as the simple Phillips
+curve would suggest, nor the same unemployment, as the natural-rate hypo-
+thesis would suggest.
+This recent association of higher inflation with higher unemployment may
+reflect the common impact of such events as the oil crisis, or independent forces
+that have imparted a common upward trend to inflation and unemployment.
+However, a major factor in some countries and a contributing factor in
+others may be that they are in a transitional period - this time to be measured
+by quinquennia or decades not years. The public has not adapted its attitudes
+or its institutions to a new monetary environment. Inflation tends not only to
+be higher but also increasingly volatile and to be accompanied by widening
+government intervention into the setting of prices. The growing volatility of
+284 Economic Sciences 1976
+inflation and the growing departure of relative prices from the values that
+market forces alone would set combine to render the economic system less
+efficient, to introduce frictions in all markets, and, very likely, to raise the
+recorded rate of unemployment.
+On this analysis, the present situation cannot last. It will either degenerate
+into hyperinflation and radical change; or institutions will adjust to a situation
+of chronic inflation; or governments will adopt policies that will produce a
+low rate of inflation and less government intervention into the fixing of prices.
+I have told a perfectly standard story of how scientific theories are revised.
+Yet it is a story that has far-reaching importance.
+Government policy about inflation and unemployment has been at the center
+of political controversy. Ideological war has raged over these matters. Yet the
+drastic change that has occurred in economic theory has not been a result of
+ideological warfare. It has not resulted from divergent political beliefs or aims
+It has responded almost entirely to the force of events: brute experience
+proved far more potent than the strongest of political or ideological preferences.
+The importance for humanity of a correct understanding of positive economic
+science is vividly brought out by a statement made nearly two hundred years
+ago by Pierre S. du Pont, a Deputy from Nemours to the French National
+Assembly, speaking, appropriately enough, on a proposal to issue additional
+assignats - the fiat money of the French Revolution:
+“Gentlemen, it is a disagreeable custom to which one is too easily led by
+the harshness of the discussions, to assume evil intentions. It is necessary to be
+gracious as to intentions; one should believe them good, and apparently they
+are; but we do not have to be gracious at all to inconsistent logic or to absurd
+reasoning. Bad logicians have committed more involuntary crimes than bad
+men have done intentionally”
